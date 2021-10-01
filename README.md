@@ -1,3 +1,7 @@
+# Autor
+
+> Vicente Reyes Cáceres (<vicente.reyes@alumnos.uv.cl>)
+
 # Objetivo
 
 > En esta tarea se verá la programación a nivel de comandos en un ambiente Unix. El objetivo es familiarizarse con los comandos más usados y conocer algunas aspectos de la programación shell.
