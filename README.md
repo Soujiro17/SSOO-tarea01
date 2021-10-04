@@ -39,3 +39,16 @@
 - [Bucle for en la shell](https://www.hostinger.es/tutoriales/bash-for-loop-guia-ejemplos)
 - [Parámetros en shell](https://victorroblesweb.es/2016/08/27/parametros-en-shell-script/)
 - [Imprimir las primeras 10 líneas del archivo proc/pid/status](https://superuser.com/questions/564554/how-to-set-max-line-in-cat-command)
+
+# BONUS Tarea
+
+> La información utilizada para realizar la tarea se adjuntará a continuación, donde se detalla lo que se obtuvo y el respectivo link.
+
+- [Código getotps (parámetros) - créditos al usuario Adrian Frühwirth](https://stackoverflow.com/questions/16483119/an-example-of-how-to-use-getopts-in-bash)
+- [Qué significa 2>&1](https://uniwebsidad.com/foro/pregunta/238/que-significa-el-valor-21-utilizado-en-la-shell/)
+- [Qué significa el shift $((OPTIND-1))](https://unix.stackexchange.com/questions/214141/explain-the-shell-command-shift-optind-1/214151)
+- [Correr un string como comando (como separé los comandos en strings y los ejecuté)](https://stackoverflow.com/questions/2355148/run-a-string-as-a-command-within-a-bash-script)
+- [Condicionales en bash](https://atareao.es/tutorial/scripts-en-bash/condicionales-en-bash/)
+- [Contadores en bash](https://linuxize.com/post/bash-increment-decrement-variable/)
+- [Comando sort: documentation](https://pubs.opengroup.org/onlinepubs/009695399/utilities/sort.html)
+- [Leer archivos por columnas](https://www.xmodulo.com/read-column-data-text-file-bash.html)
