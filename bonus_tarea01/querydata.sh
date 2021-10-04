@@ -2,7 +2,7 @@
 
 uso() { echo "Modo de uso: $0 [-f <Archivo CSV>] [-N <int>]" 1>&2; exit 1; } # Función que muestra los parámetros necesarios para correr el código
 
-############# PARÁMETROS
+############# PARÁMETROS - el código utilizado fue de Adrian Frühwirth. El código se encuentra en el README.md.
 
 while getopts ":f:N:" o; do # Se guardan los parámetros f y N en la variable o, donde se utiliza un case ${0} para verificar los valores de los parámetros
     case "${o}" in
